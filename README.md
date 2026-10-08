@@ -119,6 +119,6 @@ plugins/
 ## License
 
 MIT
-Created by Jason Scott Heise  https://www.x.com
+Created by Jason Heise  https://www.x.com
 https://www.grok.com
 https://paulwalkerfoundation.org

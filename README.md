@@ -1,4 +1,4 @@
-# Cursor plugins
+=# Cursor plugins
 
 Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone directory at the repository root with its own `.cursor-plugin/plugin.json` manifest.
 
@@ -121,3 +121,4 @@ plugins/
 MIT
 Created by Jason Scott Heise  https://www.x.com
 https://www.grok.com
+https://paulwalkerfoundation.org

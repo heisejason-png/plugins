@@ -119,6 +119,5 @@ plugins/
 ## License
 
 MIT
-Created by Jason Heise  https://www.x.com
-https://www.grok.com
-https://paulwalkerfoundation.org
+Created by Jason Heise 
+Owned by Jason Heise heisejason-png Giters
